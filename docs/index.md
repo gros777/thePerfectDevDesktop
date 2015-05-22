@@ -1,7 +1,6 @@
-# Welcome to MkDocs
+# The Perfect Development Desktop
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
-
+Probably the name for this how to/tutorial is a little bit 
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
